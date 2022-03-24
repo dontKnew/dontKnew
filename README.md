@@ -13,11 +13,16 @@ I am a Web Developer and I am passionate about technologies and love to learn ne
   * <a href="https://github.com/dontKnew/whatsapp"> Whatsapp Clone </a> 
   * <a href="https://github.com/dontKnew/WorkManagementSystem"> Quiz </a> 
   * <a href="https://github.com/dontKnew/myself"> Portfolio </a>
-  * <a href="https://github.com/dontKnew/e-commerce"> Angular E-Commerice Project </a>
+  * <a href="https://github.com/dontKnew/e-commerce"> E-Commerice(Angular) </a>
   
 * Dynamic Project
   * <a href="https://github.com/dontKnew/WorkManagementSystem"> Work Management System </a> 
   * <a href="https://github.com/dontKnew/Ticketbook"> Ticket Book </a> 
+  * <a href="https://github.com/dontKnew/AngularCRUD">CRUD Application (Angular) </a> 
+  * <a href="https://github.com/dontKnew/portfolio"> Personal Portfolio (Angular) </a> 
+  
+* API
+ * <a href="https://github.com/dontKnew/PHPAPI">PHP API </a> 
  
 ## 📫 Get in touch
 [![Facebook](https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Failure-B%C3%B8y/100023854041628/) || [![Youtube](https://img.shields.io/badge/youtube-DD0031?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCx17TpbQ8JoQ-EdeltD1LIA) || [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dontknew)
