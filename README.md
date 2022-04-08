@@ -12,7 +12,7 @@ I am a Web Developer and I am passionate about technologies and love to learn ne
   * <a href="https://github.com/dontKnew/facebook"> Facebook Clone </a> 
   * <a href="https://github.com/dontKnew/whatsapp"> Whatsapp Clone </a> 
   * <a href="https://github.com/dontKnew/WorkManagementSystem"> Quiz </a> 
-  * <a href="https://github.com/dontKnew/myself"> Portfolio </a>
+  * <a href="https://github.com/dontKnew/myself"> Portfolio(old) </a>
   * <a href="https://github.com/dontKnew/e-commerce"> E-Commerice(Angular) </a>
   
 * Dynamic Project
