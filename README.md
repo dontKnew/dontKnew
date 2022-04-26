@@ -16,7 +16,7 @@ I am a Web Developer and I am passionate about technologies and love to learn ne
   * <a href="https://github.com/dontKnew/e-commerce"> E-Commerice(Angular) </a>
   
 * Dynamic Project
-  * <a href="https://github.com/dontKnew/SNH/"> Social Network Hack [Phishing Attack with Multiuser](PHP) </a> 
+  * <a href="https://github.com/dontKnew/SNH/"> Social Network Hack-Phishing Attack with Multiuser (PHP) </a> 
   * <a href="https://github.com/dontKnew/WMS"> Work Management System (PHP)</a> 
   * <a href="https://github.com/dontKnew/Ticketbook"> Ticket Book (PHP) </a> 
   * <a href="https://github.com/dontKnew/AngularCRUD">CRUD Application (Angular) </a> 
