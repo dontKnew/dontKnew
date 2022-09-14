@@ -17,14 +17,15 @@ Last Update : 14/09/2022
   * <a href="https://github.com/dontKnew/e-commerce"> E-Commerice(Angular) </a>
   
 * Dynamic Project
-  * <a href="https://github.com/dontKnew/Expense-Tracking-codeigniter-4"> Expense Tracking (Codeigniter4) </a> 
+  * <a href="https://github.com/dontKnew/Expense-Tracking-codeigniter-4"> Tution Management (Mini-Project Laravel 8v) </a> 
+  * <a href="https://github.com/dontKnew/Expense-Tracking-codeigniter-4"> Expense Tracking (Codeigniter 4v) </a> 
   * <a href="https://github.com/dontKnew/web-chat-with-php-socket"> Web Chat (Socket Library+PHP)</a> 
   * <a href="https://github.com/dontKnew/osms"> OSMS(Angular+PHP)</a> 
   * <a href="https://github.com/dontKnew/SNH/"> Social Network Hack-Phishing Attack with Multiuser (PHP) </a> 
   * <a href="https://github.com/dontKnew/WMS"> Work Management System (PHP)</a> 
   * <a href="https://github.com/dontKnew/Ticketbook"> Ticket Book (PHP) </a> 
   * <a href="https://github.com/dontKnew/AngularCRUD">CRUD Application (Angular+PHP) </a> 
-  * <a href="https://github.com/dontKnew/portfolio"> Personal Portfolio (Angular+PHP) </a> 
+  * <a href="https://github.com/dontKnew/portfolio"> Portfolio (Angular+PHP) </a> 
   * <a href="https://github.com/dontKnew/food-delivery"> Food Delivery (Angular+PHP) </a> 
   
 * API
