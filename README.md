@@ -29,6 +29,8 @@ Last Update : 14/09/2022
   
 * API
   * <a href="https://github.com/dontKnew/PHPAPI">PHP API </a> 
+  * <a href="https://github.com/dontKnew/laravel-API-with-Sanctum">Laravel API- Sanctum</a> 
+  
  
 ## 📫 Get in touch with me
 [![Facebook](https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Failure-B%C3%B8y/100023854041628/) || [![Youtube](https://img.shields.io/badge/youtube-DD0031?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCx17TpbQ8JoQ-EdeltD1LIA) || [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dontknew)
