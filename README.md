@@ -17,6 +17,8 @@ Last Update : 06/07/2022
   * <a href="https://github.com/dontKnew/e-commerce"> E-Commerice(Angular) </a>
   
 * Dynamic Project
+  * <a href="https://github.com/dontKnew/Expense-Tracking-codeigniter-4"> Expense Tracking (Codeigniter4) </a> 
+  * <a href="https://github.com/dontKnew/web-chat-with-php-socket"> Web Chat (Socket Library+PHP)</a> 
   * <a href="https://github.com/dontKnew/osms"> OSMS(Angular+PHP)</a> 
   * <a href="https://github.com/dontKnew/SNH/"> Social Network Hack-Phishing Attack with Multiuser (PHP) </a> 
   * <a href="https://github.com/dontKnew/WMS"> Work Management System (PHP)</a> 
