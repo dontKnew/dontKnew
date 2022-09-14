@@ -3,10 +3,10 @@
 
 I am a Web Developer and I am passionate about technologies and love to learn new things.
 
-Last Update : 06/07/2022
+Last Update : 14/09/2022
 ## ⚡ MY Tech Stack
 * Front-End Language : 1. Javascript 2. HTML 3. CSS 4. Bootstrap 5. Tailwind 6. Angular (Basic)
-* Back-End Lanuage :   1. PHP 2. MYSQL 3. NodeJS(basic) 4. PHP OOP Concept 5. API 6. Compser
+* Back-End Lanuage :   1. PHP 2. MYSQL 3. NodeJS(basic) 4. PHP OOP Concept 5. API 6. Composer 7. laravel-8 8. Codeigniter-4 
 
 ## ⚡ Project Summary 
 * Static Project 
