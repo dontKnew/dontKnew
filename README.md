@@ -1,17 +1,26 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Sajid Ali (Half Software Engineer) 👨‍💻
 
-I am a Half Software Engineer without a degree and I am passionate about Web Application & Website Developement technologies and love to learn new technology.
+I am a Half Software Engineer without a degree and I am passionate about Web Application & Website Developement and love to learn new technology.
 
 Last Update : 16/10/2023
 ## ⚡ MY Skills
-* Front-End Language : 1. Javascript 2. HTML 3. CSS 4. Bootstrap 5. Tailwind 6. Next/React JS
-* Back-End Lanuage :   1. Core PHP 2. PHP OOP 3. Secure API Creation 4. Composer 6.  MYSQL Database 7. Codeigniter v4 & v3 8. NodeJS (basic) 9. Java (basic) 10. Python(basic)
-* Others : 1. Web Scrapping 2. Website Optimization 3. Wordpress (Basic) 4. Convert website to SEO friendly  5. GTM 6. Facebook Developer APIs 7.  Google Developer APIs
+| Backend Languages     |  Frontend Language   | Others                |
+|-----------------------|----------------------|-----------------------|
+| Core PHP              | JavaScrpit           | Web Scraping
+| PHP OOP               | HTML                 | Website Optimzation
+| Secure API Creation   | CSS                  | Wordpress (Basic)
+| Composer              | Composer             | SEO Friendly Site
+| MYSQL Database        | Tailwind CSS         | Facebook Developer APIs
+| Codeigniter (v4 & v3) | React/Next.js        | Google Developer APIs
+| Node.js (basic)       |                      | Host Website
+| Java (basic)          |                      | Google Tag Manager
+| Python (basic)        |                      | Zoom Meeting APIs
+
 
 ## ⚡ Project Summary 
-* Programming Language Cheatsheet 
-  * <a href="https://github.com/dontKnew/cheatsheet">Cheatsheet</a> 
+* Cheatsheets 
+  * <a href="https://github.com/dontKnew/cheatsheet">Programming Language Cheathseets</a> 
   * <a href="https://github.com/dontKnew/components-php">PHP Components</a> 
   
 * Static Project 
