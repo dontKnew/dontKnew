@@ -1,15 +1,16 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Sajid Ali 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Sajid Ali (Half Software Engineer) 👨‍💻
 
-I am a Web Developer and I am passionate about technologies and love to learn new things.
+I am a Half Software Engineer without a degree and I am passionate about Web Application & Website Developement technologies and love to learn new technology.
 
-Last Update : 14/09/2022
-## ⚡ MY Tech Stack
-* Front-End Language : 1. Javascript 2. HTML 3. CSS 4. Bootstrap 5. Tailwind 6. Angular (Basic)
-* Back-End Lanuage :   1. Core PHP 2. PHP OOP(Basic) 3. PHP API 4. JWT TOKEN 5. Composer 6.  MYSQL 7. Laravel-8v 8. Codeignter-4v  9. NodeJS(basic)
+Last Update : 16/10/2023
+## ⚡ MY Skills
+* Front-End Language : 1. Javascript 2. HTML 3. CSS 4. Bootstrap 5. Tailwind 6. Next/React JS
+* Back-End Lanuage :   1. Core PHP 2. PHP OOP 3. Secure API Creation 4. Composer 6.  MYSQL Database 7. Codeigniter v4 & v3 8. NodeJS (basic) 9. Java (basic) 10. Python(basic)
+* Others : 1. Web Scrapping 2. Website Optimization 3. Wordpress (Basic) 4. Convert website to SEO friendly  5. GTM 6. Facebook Developer APIs 7.  Google Developer APIs
 
 ## ⚡ Project Summary 
-* Cheatsheet 
+* Programming Language Cheatsheet 
   * <a href="https://github.com/dontKnew/cheatsheet">Cheatsheet</a> 
   * <a href="https://github.com/dontKnew/components-php">PHP Components</a> 
   
@@ -30,7 +31,8 @@ Last Update : 14/09/2022
   * <a href="https://github.com/dontKnew/Ticketbook"> Ticket Book (PHP) </a> 
   * <a href="https://github.com/dontKnew/AngularCRUD">CRUD Application (Angular+PHP) </a> 
   * <a href="https://github.com/dontKnew/portfolio"> Portfolio (Angular+PHP) </a> 
-  * <a href="https://github.com/dontKnew/food-delivery"> Food Delivery (Angular+PHP) </a> 
+  * <a href="https://github.com/dontKnew/food-delivery"> Food Delivery (Angular+PHP) </a>
+  * <a href="https://github.com/dontKnew/food-delivery"> Food Delivery (Angular+PHP) </a>
   
 * API
   * <a href="https://github.com/dontKnew/PHPAPI">PHP API </a> 
