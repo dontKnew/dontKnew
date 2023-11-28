@@ -17,8 +17,8 @@ Last Update : 24/10/2023
 | Java (basic)          | Jquery               | Google Tag Manager
 | Python (basic)        | JS Library           | Zoom Meeting APIs
 |                       |                      | Android Application (Basic)
-                                               | Linux Operating System (basic)
-                                               | Google Sheets
+|                       |                      | Linux Operating System (basic)
+|                       |                      | Google Sheets
 
 
 ## ⚡ Project Summary 
