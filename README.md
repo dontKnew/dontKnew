@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Sajid Ali (Half Software Engineer) 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Sajid Ali (1/2 Software Engineer) 👨‍💻
 
 I am a Half Software Engineer without a degree and I am passionate about Web Application & Website Developement and love to learn new technology.
 
